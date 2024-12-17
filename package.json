@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "name": "backend-1-zulatto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "node --watch src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
