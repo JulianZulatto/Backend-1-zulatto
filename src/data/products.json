@@ -1,0 +1,72 @@
+[
+  {
+    "id": 2,
+    "title": "Placa Base ASUS ROG Strix Z690-E",
+    "description": "Placa base ATX con chipset Z690, soporte para DDR5 y PCIe 5.0 para procesadores Intel de 12ª generación.",
+    "code": "MB-ASUS-Z690E",
+    "price": 299.99,
+    "status": "available",
+    "stock": 50,
+    "category": "Placas base",
+    "thumbnails": [
+      "https://example.com/images/asus-z690e-thumbnail1.jpg",
+      "https://example.com/images/asus-z690e-thumbnail2.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Tarjeta Gráfica NVIDIA GeForce RTX 3080",
+    "description": "Tarjeta gráfica de alto rendimiento para gaming 4K y realidad virtual, con 10GB de GDDR6X.",
+    "code": "GPU-NVIDIA-RTX3080",
+    "price": 899.99,
+    "status": "out_of_stock",
+    "stock": 0,
+    "category": "Tarjetas gráficas",
+    "thumbnails": [
+      "https://example.com/images/rtx3080-thumbnail1.jpg",
+      "https://example.com/images/rtx3080-thumbnail2.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Memoria RAM Corsair Vengeance LPX 16GB (2 x 8GB) DDR4",
+    "description": "Memoria RAM de alto rendimiento para gaming y overclocking, con disipadores de calor de bajo perfil.",
+    "code": "RAM-CORSAIR-16GB-DDR4",
+    "price": 79.99,
+    "status": "available",
+    "stock": 100,
+    "category": "Memoria RAM",
+    "thumbnails": [
+      "https://example.com/images/corsair-ram-thumbnail1.jpg",
+      "https://example.com/images/corsair-ram-thumbnail2.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Disco Duro SSD Samsung 970 EVO Plus 1TB",
+    "description": "SSD NVMe con velocidades de lectura de hasta 3500 MB/s y escritura de hasta 3300 MB/s para un rendimiento ultrarrápido.",
+    "code": "SSD-SAMSUNG-970EVO-1TB",
+    "price": 119.99,
+    "status": "available",
+    "stock": 75,
+    "category": "Almacenamiento",
+    "thumbnails": [
+      "https://example.com/images/samsung-970evo-thumbnail1.jpg",
+      "https://example.com/images/samsung-970evo-thumbnail2.jpg"
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Procesador Intel Core i9-12900K",
+    "description": "Procesador de 16 núcleos y 24 hilos para un rendimiento superior en tareas multitarea y gaming.",
+    "code": "CPU-INTEL-I9-12900K cg3",
+    "price": 749.99,
+    "status": "available",
+    "stock": 35,
+    "category": "Procesadores",
+    "thumbnails": [
+      "https://example.com/images/i9-12900k-thumbnail1.jpg",
+      "https://example.com/images/i9-12900k-thumbnail2.jpg"
+    ]
+  }
+]
